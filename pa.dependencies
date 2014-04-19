@@ -27,8 +27,32 @@
   },
   {
     "remote":       "github",
+    "repository":   "CyanogenMod/android_hardware_qcom_audio",
+    "target_path":  "hardware/qcom/audio",
+    "revision":     "cm-11.0"
+  },
+  {
+    "remote":       "github",
     "repository":   "CyanogenMod/android_hardware_qcom_display-caf-new",
     "target_path":  "hardware/qcom/display-caf-new",
+    "revision":     "cm-11.0"
+  },
+   {
+    "remote":       "github",
+    "repository":   "CyanogenMod/android_hardware_qcom_display-caf",
+    "target_path":  "hardware/qcom/display-caf",
+    "revision":     "cm-11.0"
+  },
+   {
+    "remote":       "github",
+    "repository":   "CyanogenMod/android_hardware_qcom_display",
+    "target_path":  "hardware/qcom/display",
+    "revision":     "cm-11.0"
+  },
+   {
+    "remote":       "github",
+    "repository":   "CyanogenMod/android_hardware_qcom_fm",
+    "target_path":  "hardware/qcom/fm",
     "revision":     "cm-11.0"
   },
   {
@@ -59,6 +83,12 @@
     "remote":       "cm",
     "repository":   "CyanogenMod/android_hardware_qcom_media",
     "target_path":  "hardware/qcom/media",
+    "revision":     "cm-11.0"
+  },
+   {
+    "remote":       "cm",
+    "repository":   "CyanogenMod/android_hardware_qcom_media-caf",
+    "target_path":  "hardware/qcom/media-caf",
     "revision":     "cm-11.0"
   },
   {
