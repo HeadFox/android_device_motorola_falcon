@@ -108,7 +108,13 @@
     "repository":   "CyanogenMod/android_hardware_qcom_camera",
     "target_path":  "hardware/qcom/camera",
     "revision":     "cm-11.0"
-  },    
+  },
+  {
+    "remote":       "cm",
+    "repository":   "CyanogenMod/android_external_ebtables",
+    "target_path":  "hardware/qcom/camera",
+    "revision":     "cm-11.0"
+  },
   {
     "remote":      "blobs",
     "repository":  "proprietary_vendor_motorola",
