@@ -112,7 +112,7 @@
   {
     "remote":       "cm",
     "repository":   "CyanogenMod/android_external_ebtables",
-    "target_path":  "hardware/qcom/camera",
+    "target_path":  "external/etables",
     "revision":     "cm-11.0"
   },
   {
