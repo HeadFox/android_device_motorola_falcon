@@ -8,10 +8,10 @@
     "target_path":  "device/motorola/qcom-common"
   },  
   {
-    "remote":       "cm",
-    "repository":   "Cyanogenmod/android_device_qcom_common",
+    "remote":       "github",
+    "repository":   "SlimRoms/device_qcom_common",
     "target_path":  "device/qcom/common",
-    "revision":     "cm-11.0"
+    "revision":     "kk4.4"
   },
   {
     "remote":       "github",
