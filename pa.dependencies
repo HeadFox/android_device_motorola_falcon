@@ -5,13 +5,13 @@
     "target_path":  "device/motorola/msm8226-common"
   },
   {
-    "remote":       "github",
-    "repository":   "AOSPA-legacy/android_device_motorola_qcom-common",
+    "remote":       "legacy",
+    "repository":   "android_device_motorola_qcom-common",
     "target_path":  "device/motorola/qcom-common"
   },  
   {
-    "remote":       "github",
-    "repository":   "SlimRoms/device_qcom_common",
+    "remote":       "slim",
+    "repository":   "device_qcom_common",
     "target_path":  "device/qcom/common",
     "revision":     "kk4.4"
   },
