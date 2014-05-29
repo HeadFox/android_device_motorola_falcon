@@ -7,7 +7,8 @@
   {
     "remote":       "legacy",
     "repository":   "android_device_motorola_qcom-common",
-    "target_path":  "device/motorola/qcom-common"
+    "target_path":  "device/motorola/qcom-common",
+    "revision":     "kitkat"
   },  
   {
     "remote":       "slim",
