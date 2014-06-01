@@ -17,8 +17,8 @@
     "revision":     "kk4.4"
   },
   {
-    "remote":       "github",
-    "repository":   "CyanogenMod/android_kernel_motorola_msm8226",
+    "remote":       "aospal",
+    "repository":   "android_kernel_motorola_msm8226",
     "target_path":  "kernel/motorola/msm8226",
     "revision":     "cm-11.0"
   },
