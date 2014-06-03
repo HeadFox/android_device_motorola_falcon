@@ -33,7 +33,7 @@ TARGET_UNIFIED_DEVICE := true
 TARGET_INIT_VENDOR_LIB := libinit_msm
 TARGET_LIBINIT_DEFINES_FILE := device/motorola/falcon/init/init_falcon.c
 USE_SABER_LINUX := yes
-GCC_VERSION_AND := 4.9
+GCC_VERSION_ARM := 4.9
 
 # Custom relese tools for unified devices
 TARGET_RELEASETOOLS_EXTENSIONS := device/motorola/falcon
